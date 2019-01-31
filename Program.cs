@@ -12,7 +12,7 @@ namespace vscode_works
             var response = client.Execute(request);
             var content = response.Content;
 
-            // 分析得到的json数据
+            // 分析得到的json数据,测试版本控制工具
 
             Console.WriteLine("Hello World!" + content);
         }
