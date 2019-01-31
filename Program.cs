@@ -12,6 +12,8 @@ namespace vscode_works
             var response = client.Execute(request);
             var content = response.Content;
 
+            // 分析得到的json数据
+
             Console.WriteLine("Hello World!" + content);
         }
     }
