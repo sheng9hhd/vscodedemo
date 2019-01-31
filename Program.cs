@@ -14,6 +14,7 @@ namespace vscode_works
 
             // 分析得到的json数据,测试版本控制工具
             // 追加直播代码
+            // 测试是否记住用户名和密码
 
             Console.WriteLine("Hello World!" + content);
         }
