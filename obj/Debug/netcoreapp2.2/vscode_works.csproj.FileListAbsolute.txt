@@ -1,0 +1,11 @@
+F:\vscode_works\bin\Debug\netcoreapp2.2\vscode_works.deps.json
+F:\vscode_works\bin\Debug\netcoreapp2.2\vscode_works.runtimeconfig.json
+F:\vscode_works\bin\Debug\netcoreapp2.2\vscode_works.runtimeconfig.dev.json
+F:\vscode_works\bin\Debug\netcoreapp2.2\vscode_works.dll
+F:\vscode_works\bin\Debug\netcoreapp2.2\vscode_works.pdb
+F:\vscode_works\obj\Debug\netcoreapp2.2\vscode_works.csprojAssemblyReference.cache
+F:\vscode_works\obj\Debug\netcoreapp2.2\vscode_works.csproj.CoreCompileInputs.cache
+F:\vscode_works\obj\Debug\netcoreapp2.2\vscode_works.AssemblyInfoInputs.cache
+F:\vscode_works\obj\Debug\netcoreapp2.2\vscode_works.AssemblyInfo.cs
+F:\vscode_works\obj\Debug\netcoreapp2.2\vscode_works.dll
+F:\vscode_works\obj\Debug\netcoreapp2.2\vscode_works.pdb
